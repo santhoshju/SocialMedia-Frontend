@@ -4,4 +4,5 @@
     gap: 1rem;
     align-items: center;
     overflow: auto;
+    background-color: rgb(197, 255, 255);
 }
